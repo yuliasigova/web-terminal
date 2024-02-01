@@ -2,8 +2,6 @@
 import {createGlobalStyle} from "styled-components";
 import {ptMono} from "@/app/font";
 
-console.log(ptMono)
-
 const GlobalStyle = createGlobalStyle`
   * {
     box-sizing: border-box;

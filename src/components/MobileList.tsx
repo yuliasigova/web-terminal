@@ -25,7 +25,7 @@ export default function MobileList() {
     const mobileData = [
         { logo: "Beeline.svg", alt: "Билайн" },
         { logo: "MTS.svg", alt: "МТС" },
-        { logo: "MegaFon.svg", alt: "Мегафон" },
+        { logo: "Megafon.svg", alt: "Мегафон" },
         { logo: "plus.svg", alt: "Добавьте оператора" }
     ]
 
